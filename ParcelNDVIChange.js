@@ -1,6 +1,9 @@
 /*
  This Script takes selected parcels from the state of Vermont, chosen to be those within 500m of the PMRC parcel,
  and calculates their monthly NDVI mean, plotting them over time. 
+
+ This can also be ran directly from my public editor script at:
+ https://code.earthengine.google.com/dfb1263e672f0b85510ac80affe6cef9
 */
 
 /* Perform imports */
